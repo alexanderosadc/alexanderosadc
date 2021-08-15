@@ -1,4 +1,4 @@
-# Hello! <img src="🌆" width="30px">
+# Hello!🌆
 
 
 
